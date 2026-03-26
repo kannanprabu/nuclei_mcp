@@ -2,8 +2,6 @@
 
 A standalone Python MCP (Model Context Protocol) server that wraps [Nuclei](https://github.com/projectdiscovery/nuclei), enabling Claude Desktop to run real vulnerability scans through natural language.
 
-> **Presented at BSides San Diego 2026**
-> *"Build Your First MCP Server: Automate Security Scans with AI"*
 > Kannan Prabu Ramamoorthy & Swarup Natukula
 
 ---
